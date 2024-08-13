@@ -29,9 +29,7 @@ const Home = ({ show, setShow }) => {
                         <Link to="/portfolio"><strong>Portfolio</strong></Link>
                     </div>
                 </div >
-                <footer data-aos="fade-up"
-                    data-aos-easing="linear"
-                    data-aos-duration="1200">
+                <footer >
                     <ul >
                         <Link to={"https://www.instagram.com/hhherbalhairoil/?igsh=MW1pd3BxeGxpaWxtaQ%3D%3D"} target='_blank'>
                             <AiFillInstagram />

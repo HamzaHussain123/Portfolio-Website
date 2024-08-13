@@ -15,7 +15,7 @@ const Navbar = ({ show, setShow }) => {
                     <Link to={"/"} onClick={handleLinkClick}>Home</Link>
                     <Link to={"/about"} onClick={handleLinkClick}>About</Link>
                     <Link to={"/resume"} onClick={handleLinkClick}>Resume</Link>
-                    <Link to={"/portfolio"} onClick={handleLinkClick}>Portfolio</Link>
+                    <Link to={"/portfolio"} onClick={handleLinkClick}>Projects</Link>
                 </ul>
 
 
